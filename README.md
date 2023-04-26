@@ -1,4 +1,4 @@
-![logo](https://github.com/harshit9n/harshit9n/blob/main/Harshit%20patel.png)
+![logo](https://github.com/harshit9n/harshit9n/blob/main/Harshit%20patel%20(1).png)
 <h1 align="center">Hi 👋, I'm Harshit Patel</h1>
 <h3 align="center">A passionate frontend developer and coder from India</h3>
 
